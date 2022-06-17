@@ -1,2 +1,16 @@
-# Baby-Step-in-Data-Analysis
-This repository is intended for personal learning and was created during Microsoft "30 Days of Learning" 
+# Project Name: Data Analysis Baby-Step
+
+---------
+# Project Objective: Problem Statement
+
+
+---------
+# Data Sourcing
+
+
+----------
+# Data Transformation
+
+
+----------
+# Findings and Recommendation
